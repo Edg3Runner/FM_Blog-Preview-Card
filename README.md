@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Edg3Runner/FM_Blog-Preview-Card
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Blog Preview Card](https://vercel.com/mitchs-projects-05dcd691/blog-preview-card/2zaHzmNgcWWuo7HiKQZ1jGgsJkXK)
 
 ## My process
 
@@ -63,5 +63,5 @@ While there are some intuitive elements in Tailwind, I will need some more pract
 ## Author
 
 - Website - [Mitch Pauwels](https://github.com/Edg3Runner/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Edg3Runner)
-- Twitter - [@yourusername](https://www.twitter.com/MitchPauwels)
+- Frontend Mentor - [@Edg3Runner](https://www.frontendmentor.io/profile/Edg3Runner)
+- Twitter - [@MitchPauwels](https://www.twitter.com/MitchPauwels)
