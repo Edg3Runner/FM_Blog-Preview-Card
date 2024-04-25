@@ -1,30 +1,67 @@
-# React + TypeScript + Vite
+# Frontend Mentor - Blog preview card solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-Currently, two official plugins are available:
+## Table of contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-## Expanding the ESLint configuration
+## Overview
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+### The challenge
 
-- Configure the top-level `parserOptions` property like this:
+Users should be able to:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- See hover and focus states for all interactive elements on the page
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+### Screenshot
+
+![](./src/assets/images/preview.png)
+
+### Links
+
+- Solution URL: https://github.com/Edg3Runner/FM_Blog-Preview-Card
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- Tailwind CSS
+- Flexbox
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+
+### What I learned
+
+This is the very first project where I've been using Tailwind CSS.
+I learned:
+
+- How to add custom fonts and colors to Tailwind.
+- How to use CSS variables in Tailwind.
+
+### Continued development
+
+While there are some intuitive elements in Tailwind, I will need some more practice with it by creating some projects where I can setup entire themes and have more complicated designs.
+
+### Useful resources
+
+- [Adding custom fonts to React](https://dev.to/ziqinyeow/how-to-add-custom-font-file-to-your-react-app-31kb) - This helped me to understand how I should be adding custom fonts into React.
+- [Adding Fonts to Tailwind](https://www.youtube.com/watch?v=5U1okKk-GGE) - I watched this video to see how you could add the configuration into Tailwind CSS.
+- [Adding colors to Tailwind](https://tailwindcss.com/docs/customizing-colors) -
+
+## Author
+
+- Website - [Mitch Pauwels](https://github.com/Edg3Runner/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Edg3Runner)
+- Twitter - [@yourusername](https://www.twitter.com/MitchPauwels)
