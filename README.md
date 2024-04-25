@@ -57,8 +57,8 @@ While there are some intuitive elements in Tailwind, I will need some more pract
 ### Useful resources
 
 - [Adding custom fonts to React](https://dev.to/ziqinyeow/how-to-add-custom-font-file-to-your-react-app-31kb) - This helped me to understand how I should be adding custom fonts into React.
-- [Adding Fonts to Tailwind](https://www.youtube.com/watch?v=5U1okKk-GGE) - I watched this video to see how you could add the configuration into Tailwind CSS.
-- [Adding colors to Tailwind](https://tailwindcss.com/docs/customizing-colors) -
+- [Adding Fonts to Tailwind](https://www.youtube.com/watch?v=sOnBG2wUm1s) - I watched this video to see how you could add the configuration into Tailwind CSS.
+- [Adding colors to Tailwind](https://tailwindcss.com/docs/customizing-colors)
 
 ## Author
 
