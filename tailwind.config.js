@@ -6,6 +6,9 @@ export default {
       colors: {
         "custom-yellow": "#F4D04E",
       },
+      fontFamily: {
+        figtree: ["Figtree", "sans-serif"],
+      },
     },
   },
   plugins: [],
